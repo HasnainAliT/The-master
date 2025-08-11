@@ -1,1 +1,2 @@
 There is always a way out.This is my updated message
+this is the new line from feature-branch
